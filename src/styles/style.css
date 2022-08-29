@@ -35,13 +35,13 @@ h4 {
     font-weight: bold;
 }
 
-pre {
+/*pre {
     tab-size: 2;
     white-space: pre-wrap;
     word-wrap: break-word;
     tab-size: 4;
     -moz-tab-size: 4;
-}
+}*/
 
 a {
     color: inherit;
