@@ -304,3 +304,12 @@ input {
     width: 5px;
     height: 5px;
 }
+
+/* 修改 github 样式 */
+.fa-github {
+    font-weight: 550;
+}
+.fa-github:after{
+    content: "ResuRrction 🌟";
+    margin-left: 4px;
+}
